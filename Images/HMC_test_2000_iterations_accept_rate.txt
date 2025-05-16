@@ -1,0 +1,1 @@
+Epsilon: 1.839e-05Acceptance rate: 0.9385

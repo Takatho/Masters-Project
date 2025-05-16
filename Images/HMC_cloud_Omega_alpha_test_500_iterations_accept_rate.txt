@@ -1,0 +1,1 @@
+Epsilon: 0.00012598234688119802Acceptance rate: 0.996
